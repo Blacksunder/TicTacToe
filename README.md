@@ -1,5 +1,6 @@
 # TicTacToe
-REST API for a web application\
+REST API for TicTacToe game\
+
 It includes:
 - game logic (with 2 players or with AI);
 - datasource layout for storing games and users in a database;
