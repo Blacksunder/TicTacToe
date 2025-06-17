@@ -1,5 +1,5 @@
 # TicTacToe
-REST API for TicTacToe game
+REST API for TicTacToe game, is developed using Spring Boot
 
 It includes:
 - game logic (with 2 players or with AI);
